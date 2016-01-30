@@ -5,7 +5,7 @@ Acme::Scrub
 
 ## SYNOPSIS
 
-Are your per 6 files a mess? Have some nasty code you keep meaning to refactor
+Are your Perl 6 files a mess? Have some nasty code you keep meaning to refactor
 but just can't find the time? Tired of looking at all those impenetrable Unicode
 operators? Help has arrived!
 
