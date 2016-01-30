@@ -1,7 +1,7 @@
 {
     "perl"        : "6.*",
     "name"        : "Acme::Scrub",
-    "version"     : "0.1.0",
+    "version"     : "0.2.0",
     "description" : "For REALLY clean code.",
     "authors"     : [ "Steve Schulze (thundergnat)" ],
     "provides"    : {"Acme::Scrub" : "lib/Acme/Scrub.pm6"},
