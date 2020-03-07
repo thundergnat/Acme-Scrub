@@ -2,6 +2,7 @@
 
 Acme::Scrub
 
+[![Build Status](https://travis-ci.org/thundergnat/Acme-Scrub.svg?branch=master)](https://travis-ci.org/thundergnat/Acme-Scrub)
 
 ## SYNOPSIS
 
@@ -32,7 +33,7 @@ and all the unsightly code below that line will be cleaned up, but it will still
 work the same way.
 
 
-## WARNINGS, CAVEATS, & QUID PRO QUOS
+## WARNINGS, CAVEATS, PROVISIOS & QUID PRO QUOS
 
 This modifies and overwrites the original file. It is highly recommended
 to save backup copies BEFORE using Acme::Scrub. It is possible to recover
