@@ -1,5 +1,7 @@
 Revision history for Acme-Scrub
 
 {{$NEXT}}
+
+0.2.1  2022-12-22T10:26:34-05:00
     - Migrate to fez ecosystem
     - Minor updates 
